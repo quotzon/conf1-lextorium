@@ -2671,11 +2671,11 @@ a.back-to-top:focus i {
 #main-slide .carousel-item .carousel-caption .details {
     position: relative;
     padding: 40px 0 40px 0;
-    width: 430px;
+    max-width: 530px;
     margin: 0 auto;
 }
 
-#main-slide .carousel-item .carousel-caption .details p {
+#main-slide .carousel-item .carousel-caption .details p, #main-slide .carousel-item .carousel-caption .details ul li {
     text-align: left;
     font-size: 22px;
     line-height: 37px;

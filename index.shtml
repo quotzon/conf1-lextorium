@@ -13,7 +13,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Научно-практическая конференция "Банкротство застройщиков в России"</title>
+    <title>Онлайн-курс "Банкротство застройщиков в России"</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -45,8 +45,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link href="https://conf1.lextorium.com/img/events/conf1-social-banner.jpg" rel="image_src" />
     <meta property="og:url" content="https://conf1.lextorium.com/" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content='Научно-практическая конференция "Банкротство застройщиков в России"' />
-    <meta property="og:description" content='Научно-практическая конференция "Банкротство застройщиков в России. Онлайн и очно. Дата: 27 февраля 2019 года.' />
+    <meta property="og:title" content='Онлайн-курс "Банкротство застройщиков в России"' />
+    <meta property="og:description" content='Онлайн-курс "Банкротство застройщиков в России. 10 известных спикеров. 8 академических часов' />
     <meta property="og:image" content='https://conf1.lextorium.com/img/events/conf1-social-banner.jpg' />
     <meta property="og:updated_time" content="2018-11-20 11:37:00 +0300" />
 
@@ -133,18 +133,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="carousel-item active">
                     <img class="d-block w-100" src="img/main-bl.jpg" alt="">
                     <div class="carousel-caption d-md-block">
-                        <h1 class="wow fadeInDown heading" data-wow-delay=".6s"><small>Научно-практическая конференция</small><br>Банкротство застройщиков в России</h1>
+                        <h1 class="wow fadeInDown heading" data-wow-delay=".6s"><small>Онлайн-курс</small><br>Банкротство застройщиков в России</h1>
 
                         <div class="details">
-                            <p class="fadeInUp wow" data-wow-delay=".8s"><span class="icon">
-                                    <ion-icon name="calendar"></ion-icon>
-                                </span>27 февраля 2019 года</p>
-                            <p class="fadeInUp wow" data-wow-delay=".9s"><span class="icon">
-                                    <ion-icon name="people"></ion-icon>
-                                </span>Очно в Москве или онлайн + запись</p>
-                            <p class="fadeInUp wow" data-wow-delay="1s"><span class="icon">
-                                    <ion-icon name="time"></ion-icon>
-                                </span>10 известных спикеров</p>
+                            <ul class="fa-ul">
+                                <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>8 часов видеозаписей</li>
+                                <li><span class="fa-li"><i class="fas fa-user-tie"></i></span>10 известных спикеров</li>
+                                <li><span class="fa-li"><i class="fas fa-award"></i></span>Удостоверение о повышении квалификации</li>
+                            </ul>
                         </div>
 
                         <a class="btn white-btn fadeInUp wow scrollTo" data-wow-delay="1.3s" href="#schedule">Узнать больше</a>
@@ -160,20 +156,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!-- Services Section Start -->
     <section id="services" class="services section-padding">
         <div class="container">
-            <div class="row">
+            <!--<div class="row">
                 <div class="col-12">
                     <div class="section-title-header text-center">
                         <h2 class="section-title wow fadeInUp" data-wow-delay="0.2s">Анонс</h2>
                     </div>
                 </div>
-            </div>
+            </div>-->
             <div class="row">
                 <div class="col-12 wow fadeInUp" data-wow-delay="0.4s">
-                    <!--<p>Дорогие друзья!</p>
-                    <p>Посмотрите по сторонам! Сколько всего строится в Москве и до самых ее окраин... Неужели вы думаете, что на все это найдется платежеспособный спрос?! А если нет, то кризис отдельных застройщиков неизбежен. Кризис на языке юристов передается словом "банкротство". Вы готовы работать в банкротстве застройщика? Вы слышали о проблемах, но пока не знаете, как их преодолеть?</p>
-                    <p>Приходите на конференцию, которую организует Ассоциация выпускников Российской школы частного права. Это будет разговор профессионалов!</p>
-					<p>Банкротство застройщиков: Мероприятие для арбитражных управляющих и их помощников, юристов девелоперских компаний, специалистов из агентств недвижимости, риэлторов, инвесторов в недвижимость, адвокатов, юристов консалтинговых бюро, защитников прав дольщиков, представителей их объединений и инициативных групп.</p>-->
-					<p>Эта конференция для топ-профессионалов банкротства, поскольку справиться с делом о банкротстве застройщика по силам не каждому арбитражному управляющему. В этой сфере «проходных» дел не бывает. Также она для дольщиков, их представителей и юристов, ищущих ответы на сложные казусы их дела</p>
+					<p>Этот курс для топ-профессионалов банкротства, поскольку справиться с делом о банкротстве застройщика по силам не каждому арбитражному управляющему. В этой сфере «проходных» дел не бывает. Также она для дольщиков, их представителей и юристов, ищущих ответы на сложные казусы их дела</p>
 					<p>Вы узнаете обо всех актуальных течениях и подводных камнях судебной практики, получите подсказки от профессионалов о том, как лучше поступить в деле о банкротстве застройщика, чтобы наилучшим образом защитить свои интересы.</p>
                 </div>
             </div>
@@ -186,7 +178,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="row">
                 <div class="col-12">
                     <div class="section-title-header text-center">
-                        <h2 class="section-title wow fadeInUp" data-wow-delay="0.2s">Посетив данную конференцию, вы будете:</h2>
+                        <h2 class="section-title wow fadeInUp" data-wow-delay="0.2s">Вы будете:</h2>
                     </div>
                 </div>
             </div>
@@ -227,8 +219,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="row">
                 <div class="col-12">
                     <div class="section-title-header text-center">
-                        <h2 class="section-title wow fadeInUp" data-wow-delay="0.2s">Эта конференция не для всех!</h2>
-						<h3>Она подойдет:</h3>
+                        <h2 class="section-title wow fadeInUp" data-wow-delay="0.2s">Курс особенно рекомендуем</h2>
                     </div>
                 </div>
             </div>
@@ -469,7 +460,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="row">
                 <div class="col-12">
                     <div class="section-title-header text-center">
-                        <h2 class="section-title wow fadeInUp" data-wow-delay="0.2s">Это то, что мне нужно!<br />Хочу принять участие в конференции </h2>
+                        <h2 class="section-title wow fadeInUp" data-wow-delay="0.2s">Это то, что мне нужно!<br />Хочу прослушать курс</h2>
                     </div>
                 </div>
             </div>
@@ -480,65 +471,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
         </div>
     </section>
-	
-	<section id="speakInvite" class="section-padding text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-title-header text-center">
-                        <h2 class="section-title wow fadeInUp" data-wow-delay="0.2s">Приглашение от спикеров</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-				<div class="col"></div>
-                <div class="col-8">
-					<div class="bd-example">
-						<div id="carouselSpeakerInvite" class="carousel slide" data-ride="false">
-							<ol class="carousel-indicators">
-								<li data-target="#carouselSpeakerInvite" data-slide-to="0" class="active"></li>
-								<li data-target="#carouselSpeakerInvite" data-slide-to="1"></li>
-							</ol>
-							<div class="carousel-inner">
-								<div class="carousel-item active">
-									<!--<img src="..." class="d-block w-100" alt="...">-->
-									<iframe width="560" height="315" src="https://www.youtube.com/embed/9EqVTTMTKqo?showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>
-									<div class="carousel-caption d-none d-md-block">
-										<h5>Олег Зайцев</h5>
-										<p>к.ю.н., доцент Российской школы частного права, государственный советник юстиции РФ 3 класса, магистр частного права, председатель Банкротного клуба</p>
-									</div>
-								</div>
-								<div class="carousel-item">
-									<!--<img src="..." class="d-block w-100" alt="...">-->
-									<iframe width="560" height="315" src="https://www.youtube.com/embed/AxBLnWtiCDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-									<div class="carousel-caption d-none d-md-block">
-										<h5>Андрей Егоров</h5>
-										<p>к.ю.н., председатель Попечительского совета Ассоциации выпускников РШЧП, член Совета при Президенте РФ по кодификации и совершенствованию гражданского законодательства</p>
-									</div>
-								</div>
-							</div>
-							<a class="carousel-control-prev" href="#carouselSpeakerInvite" role="button" data-slide="prev">
-								<span class="fas fa-chevron-left fa-3x" aria-hidden="true"></span>
-								<span class="sr-only">Previous</span>
-							</a>
-							<a class="carousel-control-next" href="#carouselSpeakerInvite" role="button" data-slide="next">
-								<span class="fas fa-chevron-right fa-3x" aria-hidden="true"></span>
-								<span class="sr-only">Next</span>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col"></div>
-			<div>
-		</div>
-	</section>
 
     <section id="schedule" class="section-padding text-center">
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="section-title-header text-center">
-                        <h2 class="section-title wow fadeInUp" data-wow-delay="0.2s">Программа конференции</h2>
+                        <h2 class="section-title wow fadeInUp" data-wow-delay="0.2s">Программа курса</h2>
                     </div>
                 </div>
             </div>
@@ -546,31 +485,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="col-12">
 
                     <div class="schedule">
-                        <!--<div class="event-head wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                                <div class="event_time"><span class="event_date">27 февраля 2019 г.</span></div>
-                                <div class="event_details">
-                                    <h4 class="event_date event_details_title">Выступление №1</h4>
-                                    <h4 class="event_date event_details_title">А.В. Егоров</h4>
-                                </div>
-                            </div>
-                        </div>-->
                         <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span><b>Выступление №1</b></span><br><i>А.В. Егоров</i>
+                            <div class="event_time"><span><b>Тема №1</b></span><br><i>А.В. Егоров</i>
                             </div>
                             <div class="event_details">
                                 <h5>Концептуальная модель удовлетворения требований неденежных кредиторов на примере дольщиков: право или политика</h5>
                             </div>
                         </div>
                         <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span><b>Выступление №2</b></span><br><i>О.Р. Зайцев</i>
+                            <div class="event_time"><span><b>Тема №2</b></span><br><i>О.Р. Зайцев</i>
                             </div>
                             <div class="event_details">
                                 <h5>Установление требований дольщиков в делах о банкротстве</h5>
                             </div>
                         </div>
                         <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span><b>Выступление №3</b></span><br><i>Р.И. Сайфуллин</i>
+                            <div class="event_time"><span><b>Тема №3</b></span><br><i>Р.И. Сайфуллин</i>
                             </div>
                             <div class="event_details">
                                 <h5>Судьба аренды земельного участка в контексте банкротства застройщика</h5>
@@ -581,49 +511,49 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </div>
                         </div>
                         <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span><b>Выступление №4</b></span><br><i>Р.Т. Мифтахутдинов</i>
+                            <div class="event_time"><span><b>Тема №4</b></span><br><i>Р.Т. Мифтахутдинов</i>
                             </div>
                             <div class="event_details">
                                 <h5>Основные цели реформы Федерального закона от 29.07.2017 № 218-ФЗ: продолжение поиска баланса в банкротстве застройщиков</h5>
                             </div>
                         </div>
                         <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span><b>Выступление №5</b></span><br><i>А.И. Мороз</i>
+                            <div class="event_time"><span><b>Тема №5</b></span><br><i>А.И. Мороз</i>
                             </div>
                             <div class="event_details">
                                 <h5>Практика применения норм о банкротстве застройщиков к лицам, формально не отвечающим необходимым признакам</h5>
                             </div>
                         </div>
                         <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span><b>Выступление №6</b></span><br><i>В.Е. Ульянов</i>
+                            <div class="event_time"><span><b>Тема №6</b></span><br><i>В.Е. Ульянов</i>
                             </div>
                             <div class="event_details">
                                 <h5>Урегулирование обязательств перед участниками строительства путем передачи имущества и обязательств застройщика. Практические аспекты и пробелы законодательного регулирования</h5>
                             </div>
                         </div>
                         <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span><b>Выступление №7</b></span><br><i>А.В. Алтухов</i>
+                            <div class="event_time"><span><b>Тема №7</b></span><br><i>А.В. Алтухов</i>
                             </div>
                             <div class="event_details">
                                 <h5>Споры о признании права собственности на объекты недвижимости в делах о банкротстве застройщиков: проблемные вопросы</h5>
                             </div>
                         </div>
                         <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span><b>Выступление №8</b></span><br><i>И.А. Ястржембский</i>
+                            <div class="event_time"><span><b>Тема №8</b></span><br><i>И.А. Ястржембский</i>
                             </div>
                             <div class="event_details">
                                 <h5>Банкротство застройщиков в случаях цепочек сделок между дольщиками и застройщиком. Возможность солидарных требований, в том числе к нескольким застройщикам</h5>
                             </div>
                         </div>
                         <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span><b>Выступление №9</b></span><br><i>Ю.В. Тай</i>
+                            <div class="event_time"><span><b>Тема №9</b></span><br><i>Ю.В. Тай</i>
                             </div>
                             <div class="event_details">
                                 <h5>Различие статуса кредиторов физических и юридических лиц в реестре передачи жилых помещений. Проблема двойных продаж</h5>
                             </div>
                         </div>
                         <div class="event wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="event_time"><span><b>Выступление №10</b></span><br><i>Д.М. Савченко</i>
+                            <div class="event_time"><span><b>Тема №10</b></span><br><i>Д.М. Савченко</i>
                             </div>
                             <div class="event_details">
                                 <h5>Замена застройщика в преддверии банкротства</h5>
@@ -815,39 +745,47 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </div>
                 </div>
             </div>
+            <div class="row mb-3">
+                <div class="col-12">
+                        <div class="alert alert-success text-center" role="alert">
+                                <h4 style="margin-top: 10px;">Курс подготовлен <a href="http://privlaw-alumni.com">Ассоциацией выпускников РШЧП</a> и <a href="https://privlaw-journal.com/">журналом РШЧП</a></h4>
+                              </div>
+                    
+                </div>
+            </div>
             <div class="row justify-content-center">
                 <div class="col" style="margin-bottom: 20px;">
-                    <a href="#"><img style="border: 1px solid #000;" src="img/partners/ag_logo.jpg" alt="Адвокатская газета"></a>
+                    <a href="https://www.advgazeta.ru/"><img style="border: 1px solid #000;" src="img/partners/ag_logo.jpg" alt="Адвокатская газета"></a>
                 </div>
                 <div class="col" style="margin-bottom: 20px;">
-                    <a href="#"><img style="border: 1px solid #000;" src="img/partners/arbitrazh_logo.jpg" alt="Арбитраж.ru"></a>
+                    <a href="http://arbitrage.ru/"><img style="border: 1px solid #000;" src="img/partners/arbitrazh_logo.jpg" alt="Арбитраж.ru"></a>
                 </div>
                 <div class="col" style="margin-bottom: 20px;">
-                    <a href="#"><img style="border: 1px solid #000;" src="img/partners/as_logo.jpg" alt="Ассоциация выпускников Российской школы частного права"></a>
+                    <a href="http://privlaw-alumni.com"><img style="border: 1px solid #000;" src="img/partners/as_logo.jpg" alt="Ассоциация выпускников Российской школы частного права"></a>
                 </div>
                 <div class="col" style="margin-bottom: 20px;">
-                    <a href="#"><img style="border: 1px solid #000;" src="img/partners/bartolius_logo.jpg" alt="Адвокатское бюро Бартолиус"></a>
+                    <a href="https://bartolius.ru/"><img style="border: 1px solid #000;" src="img/partners/bartolius_logo.jpg" alt="Адвокатское бюро Бартолиус"></a>
                 </div>
                 <div class="col" style="margin-bottom: 20px;">
-                    <a href="#"><img style="border: 1px solid #000;" src="img/partners/bk_logo.jpg" alt="Банкротный клуб"></a>
+                    <a href="https://bankruptcyclub.ru/"><img style="border: 1px solid #000;" src="img/partners/bk_logo.jpg" alt="Банкротный клуб"></a>
                 </div>
                 <div class="col" style="margin-bottom: 20px;">
-                    <a href="#"><img style="border: 1px solid #000;" src="img/partners/eg_logo.jpg" alt="Газета Экономика и жизнь"></a>
+                    <a href="https://www.eg-online.ru/"><img style="border: 1px solid #000;" src="img/partners/eg_logo.jpg" alt="Газета Экономика и жизнь"></a>
                 </div>
                 <div class="col" style="margin-bottom: 20px;">
-                    <a href="#"><img style="border: 1px solid #000;" src="img/partners/lextorium_logo.jpg" alt="Школа для юристов-практиков Лексториум"></a>
+                    <a href="https://lextorium.com"><img style="border: 1px solid #000;" src="img/partners/lextorium_logo.jpg" alt="Школа для юристов-практиков Лексториум"></a>
                 </div>
                 <div class="col" style="margin-bottom: 20px;">
                     <a href=#""><img style="border: 1px solid #000;" src="img/partners/petroglyph_logo.jpg" alt="Petroglyph"></a>
                 </div>
                 <div class="col" style="margin-bottom: 20px;">
-                    <a href="#"><img style="border: 1px solid #000;" src="img/partners/rshchp-mag-logo.jpg" alt="Журнал Российской школы чатсного права"></a>
+                    <a href="https://privlaw-journal.com/"><img style="border: 1px solid #000;" src="img/partners/rshchp-mag-logo.jpg" alt="Журнал Российской школы чатсного права"></a>
                 </div>
                 <div class="col" style="margin-bottom: 20px;">
-                    <a href="#"><img style="border: 1px solid #000;" src="img/partners/rshchp_logo.jpg" alt="Российская школа частного права"></a>
+                    <a href="https://privlaw.com/"><img style="border: 1px solid #000;" src="img/partners/rshchp_logo.jpg" alt="Российская школа частного права"></a>
                 </div>
                 <div class="col" style="margin-bottom: 20px;">
-                    <a href="#"><img style="border: 1px solid #000;" src="img/partners/statut_logo.jpg" alt="Статут"></a>
+                    <a href="https://www.estatut.ru/"><img style="border: 1px solid #000;" src="img/partners/statut_logo.jpg" alt="Статут"></a>
                 </div>
             </div>
         </div>
